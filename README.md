@@ -24,6 +24,9 @@ La calculadora permite realizar operaciones matemáticas básicas mediante boton
 - JTattoo Look and Feel
 
 ## 📂 Estructura del proyecto
+src/
+calculadora/
+Calculadora.java
 
 El proyecto está implementado en **una sola clase Java**, que contiene:
 
@@ -31,3 +34,18 @@ El proyecto está implementado en **una sola clase Java**, que contiene:
 - Creación dinámica de botones
 - Manejo de eventos de usuario
 - Lógica de operaciones matemáticas
+## 🚀 Ejecución
+
+1. Clonar el repositorio
+
+
+git clone https://github.com/AlexBenks/Calculadora.git
+
+
+2. Abrir el proyecto en NetBeans o cualquier IDE compatible con Java.
+
+3. Ejecutar `Calculadora.java`.
+
+## 👨‍💻 Autor
+
+Alejandro
